@@ -6,7 +6,7 @@ _Seja bem-vindo ao portfólio de projetos relacionados a Ciência de Dados_
 
 Meu nome é Rodrigo, sou formado em fisioterapia pela Universidade Federal de Minas Gerais.
 
-Minhas principais habilidades:
+Minhas principais habilidades são:
 
 - [x] Programação em Python
 - [x] Preparação, limpeza e manipulação de dados com numpy e pandas
