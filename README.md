@@ -11,11 +11,11 @@ Atualmente sou um grande entusiasta da área, estou sempre buscando aprender mai
 Minhas principais habilidades são:
 
 - [x] Programação em Python
-- [x] Preparação, limpeza e manipulação de dados com numpy e pandas
+- [x] Manipulação de dados com numpy e pandas
 - [x] Visualização de dados com matplotlib, seaborn, plotly e cufflinks
 - [x] Análise exploratória de dados
 - [x] Machine learning com skit-learn
-- [x] Básico de linguagem SQL
+- [x] Básico de SQL
 - [x] Básico de webscraping com beautiful soup
 
 Adicionar a parte de links dos projetos:
