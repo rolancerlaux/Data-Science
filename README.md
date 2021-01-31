@@ -11,9 +11,8 @@ Atualmente sou um grande entusiasta da área, estou sempre buscando aprender mai
 Minhas principais habilidades são:
 
 - [x] Programação em Python
-- [x] Manipulação de dados
-- [x] Visualização de dados
-- [x] Análise exploratória de dados
+- [x] Manipulação e Visualização de dados
+- [x] Análise exploratória
 - [x] Técnicas de Machine learning e como conduzir experimentos
 - [x] Processamento de linguagem natural
 - [x] Linguagem SQL
