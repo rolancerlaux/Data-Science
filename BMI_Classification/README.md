@@ -4,7 +4,7 @@ Este código consiste de uma análise exploratória de dados e a validação de 
 
 ## Sobre os dados:
 
-Nele estão os dados de peso e altura de 500 indivíduos, as features que usamos nos modelos são:
+Nele estão os dados de peso e altura de 500 indivíduos, a seguir um resumo das features:
 
 Gender : Male / Female
 
