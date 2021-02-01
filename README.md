@@ -4,9 +4,11 @@
 
 _Seja bem-vindo ao portfólio de projetos relacionados a Ciência de Dados_
 
-Olá, meu nome é Rodrigo, sou formado em fisioterapia pela Universidade Federal de Minas Gerais. No ano de 2020 tive meu primeiro contato com Ciência de Dados.
+Olá, meu nome é Rodrigo, sou originalmente formado em fisioterapia pela Universidade Federal de Minas Gerais. 
 
-Atualmente sou um grande entusiasta da área, estou sempre buscando aprender mais e melhorar, aqui neste repositório você pode acompanhar todos os meus projetos relativos a Data Science.
+No ano de 2020 tive meu primeiro contato com Ciência de Dados.
+
+Atualmente sou um grande entusiasta da área de dados, estou sempre buscando aprender mais e melhorar, aqui neste repositório você pode acompanhar todos os meus projetos relativos a Data Science.
 
 Minhas principais habilidades são:
 
