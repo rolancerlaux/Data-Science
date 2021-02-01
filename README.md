@@ -19,6 +19,5 @@ Minhas principais habilidades são:
 
 
 Contatos:
-- [E-mail](rodrigolopes_07@hotmail.com)
-- [LinkedIn](www.linkedin.com/in/rodrigo-lopes-0aa31685)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
 - [Kaggle](https://www.kaggle.com/rolancerlaux)
