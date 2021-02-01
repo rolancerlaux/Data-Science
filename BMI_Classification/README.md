@@ -4,8 +4,6 @@ Este código consiste de uma análise exploratória de dados e a validação de 
 
 ## Sobre os dados:
 
-Este dataset pode ser encontrado neste link do [Kaggle](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex) 
-
 Nele estão os dados de peso e altura de 500 indivíduos, as features que usamos nos modelos são:
 
 Gender : Male / Female
@@ -35,3 +33,5 @@ Utilizamos de vários modelos de classificação para realizar predições quant
 ## Modo de usar:
 
 Baixe os arquivos em anexo e rode no jupyter notebook em sua máquina.
+
+Este dataset pode ser encontrado neste link do [Kaggle](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex) 
