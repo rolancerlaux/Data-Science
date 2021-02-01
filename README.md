@@ -17,7 +17,6 @@ Minhas principais habilidades são:
 - [x] Processamento de linguagem natural
 - [x] Linguagem SQL
 
-Adicionar a parte de links dos projetos:
 
 Contatos:
 - [E-mail](rodrigolopes_07@hotmail.com)
