@@ -1,10 +1,10 @@
-# Projeto de Cross Validation:
+# Cross-Validation project:
 
-Este código consiste de uma análise exploratória de dados e a validação de vários modelos de machine learning.
+This code consists of an exploratory data analysis and the validation of several machine learning models .
 
-## Sobre os dados:
+## About the data:
 
-Nele estão os dados de peso e altura de 500 indivíduos, a seguir um resumo das features:
+It contains the weight and height of 500 individuals, below a summary of the features:
 
 Gender : Male / Female
 
@@ -26,12 +26,12 @@ Index :
 
 5 - Extreme Obesity
 
-## Sobre o projeto:
+## About the project:
 
-Utilizamos de vários modelos de classificação para realizar predições quanto ao Index dos indivíduos.
+We use several classification models to make predictions regarding the Index of individuals.
 
-## Modo de usar:
+## How to use:
 
-Baixe os arquivos em anexo e rode no jupyter notebook em sua máquina.
+Download the attached files and run on the jupyter notebook on your machine .
 
-Este dataset pode ser encontrado neste link do [Kaggle](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex) 
+Dataset link [Kaggle](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex) 
