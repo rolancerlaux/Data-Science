@@ -1,27 +1,27 @@
-# Projeto Processamento de Linguagem Natural:
+# Natural language processing project:
 
-Este código consiste de uma análise exploratória de dados e a criação de um modelo de classificação de texto utilizando NLPTK.
+This code consists of an exploratory data analysis and the creation of a text classification model using NLPTK.
 
-## Sobre os dados:
+## About the data:
 
-Este dataset consiste em reviews do jogo Animal Crossing: New Horizons, a seguir um resumo das features:
+This dataset consists of reviews of the game Animal Crossing: New Horizons, below a summary of the features:
 
-grade: Avaliação de 0 - 10 (quanto maior melhor a pontuação)
+grade: Rating from 0 - 10
 
-user_name: User name da pessoa que fez o review
+user_name: User name
 
-text: Texto da pessoa que fez o review
+text: Text of the user who did the review
 
-date: Data de quando o review foi publicado
+date: Date when the review was published 
 
-## Sobre o projeto:
+## About the project:
 
-A partir do processamento dos textos, nós fomos capazes de predizer com precisão qual foi a pontuação do review.
+From the text processing, we were able to accurately predict what the review score was.
 
-Podendo extrapolar se o sentimento do review foi positvo ou negativo.
+Being able to extrapolate if the feeling of the review was positive or negative. 
 
-## Modo de usar:
+## How to use:
 
-Baixe os arquivos em anexo e rode no jupyter notebook em sua máquina.
+Download the attached files and run on the jupyter notebook on your machine .
 
-Este dataset pode ser encontrado neste link do [Kaggle](https://www.kaggle.com/jessemostipak/animal-crossing?select=user_reviews.csv) 
+Dataset link [Kaggle](https://www.kaggle.com/jessemostipak/animal-crossing?select=user_reviews.csv) 
