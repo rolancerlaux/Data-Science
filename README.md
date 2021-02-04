@@ -10,7 +10,7 @@ No final do ano de 2020 tive meu primeiro contato com Ciência de Dados.
 
 Atualmente sou um grande entusiasta da área de dados, estou sempre buscando aprender mais e melhorar, aqui neste repositório você pode acompanhar todos os meus projetos relativos a Data Science.
 
-Minhas principais habilidades são:
+Minhas habilidades são:
 
 - [x] Programação em Python
 - [x] Manipulação e Visualização de dados
