@@ -2,24 +2,23 @@
 
 ## Rodrigo Lopes
 
-_Seja bem-vindo ao portfólio de projetos relacionados a Ciência de Dados_
+_Welcome to my Data Science portfolio_
 
-Olá, meu nome é Rodrigo, sou originalmente formado em fisioterapia pela Universidade Federal de Minas Gerais. 
-
-No final do ano de 2020 tive meu primeiro contato com Ciência de Dados.
-
-Atualmente sou um grande entusiasta da área de dados, estou sempre buscando aprender mais e melhorar, aqui neste repositório você pode acompanhar todos os meus projetos relativos a Data Science.
-
-Minhas habilidades são:
-
-- [x] Programação em Python
-- [x] Manipulação e Visualização de dados
-- [x] Análise exploratória
-- [x] Técnicas de Machine learning e como conduzir experimentos
-- [x] Processamento de linguagem natural
-- [x] Linguagem SQL
+Hello, my name is Rodrigo, I am originally graduated as a physiotherapist at the Federal University of Minas Gerais.  
 
 
-Contatos:
+I'm a Data Science enthusiast, I'm always looking to learn, here in this repository you can follow all my projects related to Data Science. 
+
+Skills:
+
+- [x] Python
+- [x] Data Manipulation and Visualization
+- [x] Exploratory Data Analysis
+- [x] Data Scraping
+- [x] Machine Learning
+- [x] SQL
+
+
+Reach me:
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
 - [Kaggle](https://www.kaggle.com/rolancerlaux)
