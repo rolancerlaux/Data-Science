@@ -4,7 +4,7 @@ This code consists of an exploratory data analysis and the validation of several
 
 ## About the data:
 
-It contains the weight and height of 500 individuals, below a summary of the features:
+This dataset contains the weight and height of 500 individuals, below a summary of the feature:
 
 Gender : Male / Female
 
