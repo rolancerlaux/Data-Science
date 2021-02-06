@@ -22,6 +22,6 @@ Being able to extrapolate if the feeling of the review was positive or negative.
 
 ## How to use:
 
-Download the attached files and run on the jupyter notebook in your machine.
+Download the attached files and run on jupyter notebook in your machine.
 
 Dataset link [Kaggle](https://www.kaggle.com/jessemostipak/animal-crossing?select=user_reviews.csv) 
