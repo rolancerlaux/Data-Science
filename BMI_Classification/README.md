@@ -32,6 +32,6 @@ We use several classification models to make predictions regarding the Index of 
 
 ## How to use:
 
-Download the attached files and run on the jupyter notebook on your machine .
+Download the attached files and run on jupyter notebook in your machine.
 
 Dataset link [Kaggle](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex) 
