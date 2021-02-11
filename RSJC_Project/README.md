@@ -2,7 +2,7 @@
 
 This code consists of an exploratory data analysis and modeling using XG Boost Regressor.
 
-Question to be answered: Is a multivariate linear regression able to explain the values for the Posture Index? 
+**Question to be answered:** Is a multivariate linear regression able to explain the values for the Posture Index? 
 
 ## About the data:
 
