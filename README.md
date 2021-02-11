@@ -4,8 +4,7 @@
 
 _Welcome to my Data Science portfolio_
 
-Hello, my name is Rodrigo, I am originally graduated as a physiotherapist at the Federal University of Minas Gerais.  
-
+Hello, my name is Rodrigo,
 
 I'm a Data Science enthusiast, I'm always searching to learn, here in this repository you can follow all my projects related to Data Science. 
 
