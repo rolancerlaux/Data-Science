@@ -1,4 +1,4 @@
-# Natural language processing project:
+# Natural Language Processing Project:
 
 This code consists of an exploratory data analysis and the creation of a text classification model using NLPTK.
 
