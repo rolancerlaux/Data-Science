@@ -1,6 +1,8 @@
 # Cross-Validation project:
 
-This code consists of an exploratory data analysis and the validation of several machine learning models .
+This code consists of an exploratory data analysis and the validation of several machine learning models.
+
+**Question to be answered:** Which model perform better in this classification problem? 
 
 ## About the data:
 
