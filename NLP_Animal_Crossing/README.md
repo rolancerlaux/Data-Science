@@ -2,6 +2,8 @@
 
 This code consists of an exploratory data analysis and the creation of a text classification model using NLPTK.
 
+**Question to be answered:** What is the correlation between the review and the rating?
+
 ## About the data:
 
 This dataset consists of reviews of the game Animal Crossing: New Horizons, below a summary of the features:
