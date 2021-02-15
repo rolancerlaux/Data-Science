@@ -13,8 +13,8 @@ Skills:
 - [x] Python
 - [x] Data Manipulation and Visualization
 - [x] Exploratory Data Analysis
-- [x] Data Scraping
 - [x] Machine Learning
+- [x] Artificial Inteligence
 - [x] SQL
 
 
