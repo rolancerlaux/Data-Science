@@ -1,4 +1,4 @@
-# Churn Project
+# Telco Customer Churn Project
 
 This code consists of an exploratory data analysis and the validation of Neural Networks model.
 
