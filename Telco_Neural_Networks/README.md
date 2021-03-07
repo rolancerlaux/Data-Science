@@ -1,6 +1,6 @@
 # Churn Project
 
-This code consists of an exploratory data analysis and the validation of Neural Network model.
+This code consists of an exploratory data analysis and the validation of Neural Networks model.
 
 **Question to be answered:** Predict behavior to retain customers.
 
@@ -22,4 +22,4 @@ Each row represents a customer, each column contains customer’s attributes des
 
 Download the attached files and run on jupyter notebook in your machine.
 
-Dataset link [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn) 
+Dataset link [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
