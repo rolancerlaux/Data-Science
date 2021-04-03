@@ -11,13 +11,13 @@ This data set is created only for the learning purpose of the customer segmentat
 ### Resume of features:
 
 - Customer ID: Unique ID of the custumers
-- 
+
 - Age: The age of the customers
-- 
+
 - Gender: Male ou female
-- 
+ 
 - Annual income:Annual income of the customers
-- 
+
 - Spending Score: Is something you assign to the customer based on your defined parameters like customer behavior and purchasing data
 
 ### Problem Statement:
