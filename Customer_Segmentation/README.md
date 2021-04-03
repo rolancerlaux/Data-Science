@@ -1,6 +1,6 @@
 # Mall Customer Segmentation Project
 
-This code consists of an exploratory data analysis and the validation of Neural Networks model.
+This code consists of an exploratory data analysis and a customer segmentation using K-means.
 
 **Question to be answered:** Understand the profile of a mall's customers.
 
