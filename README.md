@@ -15,6 +15,7 @@ Skills:
 - [x] Exploratory Data Analysis
 - [x] Machine Learning
 - [x] Artificial Inteligence
+- [x] Computer Vision
 - [x] SQL
 
 
