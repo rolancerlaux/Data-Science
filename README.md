@@ -4,19 +4,22 @@
 
 _Welcome to my Data Science portfolio_
 
-Hello, my name is Rodrigo,
+Hello, my name is Rodrigo
 
 I'm a Data Science enthusiast, I'm always searching to learn, here in this repository you can follow all my projects related to Data Science. 
 
 Skills:
 
 - [x] Python
-- [x] Data Manipulation and Visualization
+- [x] SQL
+- [x] Data Manipulation and DataViz
 - [x] Exploratory Data Analysis
 - [x] Machine Learning
 - [x] Artificial Inteligence
 - [x] Computer Vision
-- [x] SQL
+- [x] Deployment
+- [x] Cloud Services 
+
 
 
 Reach me:
