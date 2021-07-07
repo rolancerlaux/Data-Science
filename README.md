@@ -17,7 +17,7 @@ Skills:
 - [x] Machine Learning
 - [x] Artificial Inteligence
 - [x] Computer Vision
-- [x] Deployment
+- [x] API Deployment
 - [x] Cloud Services 
 
 
