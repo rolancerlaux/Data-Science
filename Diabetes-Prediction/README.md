@@ -2,7 +2,7 @@
 
 This code consists of an exploratory data analysis and the validation of Random Forest Classifier Model, using SMOTE for unbalanced data.
 
-**Question to be answered:** Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not? 
+**Question to be answered:** Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes?
 
 ## About the data:
 
