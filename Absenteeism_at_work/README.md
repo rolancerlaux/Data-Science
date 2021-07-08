@@ -9,7 +9,9 @@ This code consists of an exploratory data analysis and the validation of Random 
 The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil.
 
 Number of Instances: 740
+
 Number of Attributes: 21
+
 Missing Values: 0
 
 ## Reasons for absence:
