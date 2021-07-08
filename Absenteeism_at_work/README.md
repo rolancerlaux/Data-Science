@@ -16,37 +16,37 @@ Missing Values: 0
 
 ICD-10 Codes: https://icd.who.int/browse10/2016/en
 
-I Certain infectious and parasitic diseases
-II Neoplasms
-III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
-IV Endocrine, nutritional and metabolic diseases
-V Mental and behavioural disorders
-VI Diseases of the nervous system
-VII Diseases of the eye and adnexa
-VIII Diseases of the ear and mastoid process
-IX Diseases of the circulatory system
-X Diseases of the respiratory system
-XI Diseases of the digestive system
-XII Diseases of the skin and subcutaneous tissue
-XIII Diseases of the musculoskeletal system and connective tissue
-XIV Diseases of the genitourinary system
-XV Pregnancy, childbirth and the puerperium
-XVI Certain conditions originating in the perinatal period
-XVII Congenital malformations, deformations and chromosomal abnormalities
-XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified
-XIX Injury, poisoning and certain other consequences of external causes
-XX External causes of morbidity and mortality
-XXI Factors influencing health status and contact with health services.
+- I Certain infectious and parasitic diseases
+- II Neoplasms
+- III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+- IV Endocrine, nutritional and metabolic diseases
+- V Mental and behavioural disorders
+- VI Diseases of the nervous system
+- VII Diseases of the eye and adnexa
+- VIII Diseases of the ear and mastoid process
+- IX Diseases of the circulatory system
+- X Diseases of the respiratory system
+- XI Diseases of the digestive system
+- XII Diseases of the skin and subcutaneous tissue
+- XIII Diseases of the musculoskeletal system and connective tissue
+- XIV Diseases of the genitourinary system
+- XV Pregnancy, childbirth and the puerperium
+- XVI Certain conditions originating in the perinatal period
+- XVII Congenital malformations, deformations and chromosomal abnormalities
+- XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified
+- XIX Injury, poisoning and certain other consequences of external causes
+- XX External causes of morbidity and mortality
+- XXI Factors influencing health status and contact with health services.
 
 And 7 categories without ICD:
 
-22 patient follow-up
-23 medical consultation
-24 blood donation
-25 laboratory examination
-26 unjustified absence
-27 physiotherapy
-28 dental consultation
+- 22 patient follow-up
+- 23 medical consultation
+- 24 blood donation
+- 25 laboratory examination
+- 26 unjustified absence
+- 27 physiotherapy
+- 28 dental consultation
 
 ## About the project:
 
